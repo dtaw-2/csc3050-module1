@@ -3,4 +3,4 @@
 Derrich Tawiah
 Mahyrah Shamseddine
 
-This reoi is for Module 1
+This repo is for Module 1
