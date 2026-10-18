@@ -1,4 +1,4 @@
 Derrick Tawiah
 Mahyrah Shamseddine
 
-This repo module 1
+This repo is for module 1
